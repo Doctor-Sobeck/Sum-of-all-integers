@@ -1,7 +1,4 @@
 # Sum-of-all-integers
-Solution to summing all integers up to n.
-If n = 7
+Sums all integers to n.
 
-s = 1 + 2 + 3 + 4 + 5 + 6 + 7
-
-s = 28
+If n = 4, the sum is equal to 1 + 2 + 3 + 4.
